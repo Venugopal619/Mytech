@@ -1,0 +1,55 @@
+Keyboard shortcuts which will make me super fast.
+-------------------------------------------------------
+1.To Open the Explorer:
+ A)Window + E
+--------------------------------------------------------
+2.To see the downloaded file & history in the browser.
+ A).ctr l + J
+ B).ctr l + H
+---------------------------------------------------------
+3. To open the windows access center.
+ A).windows + u
+---------------------------------------------------------
+ESCAPE KEY
+----------------------------------------------------------  
+a) esc + ctrl ->To access the window start menu we can use the 
+b) ctrl + esc + shift -> task manager
+c) alt + esc -> for switching between windows
+----------------------------------------------------------
+TAB KEY
+----------------------------------------------------------
+a) tab + ctrl -> used to switch to the next tab.
+b) tab + shift + ctrl -> used to switch to the previous tab
+c) tab + alt + ctrl -> used to switch between the programs
+----------------------------------------------------------
+ALT KEY
+----------------------------------------------------------
+Alt + F -> opens the file menu option for all the applications
+Alt + E -> opens the edit options for all the applications
+Alt + Enter -> is used to see the properties of the functions
+Alt + shift + Print-screen -> is used to change the contrast of the screen
+Alt + D ->is used to select the address in the particular website
+Alt + window + 1 (or) up to 10 -> will enable you to select the applications based on the numbers u press
+--------------------------------------------------------------------------------------------------------
+SHIFT KEY
+----------------------------------------------------------
+a)if you are at the bottom of the page u need to move up press
+-> shift + space bar.
+b)if you by mistake closed the application if you want to bring it back press
+-> shift + ctrl + t
+----------------------------------------------------------
+Ctrl KEY
+----------------------------------------------------------
+ -> Type application name for example like facebook & press Ctrl + Enter 
+ to get the whole application name along with address 
+ -> press Ctrl + window + f to see the how many network are connectd to the computer
+----------------------------------------------------------
+Window KEY
+----------------------------------------------------------
+-> Windows + A to open the action center..in windows 10
+-> window  + I to select the first notifications in windows 10
+-> window + M to minimize the window 
+-> window + up arrow to maximize the window.
+-> window + shift + uparrow to stretch the screen size.
+
+--------------------------------------------------------------------------
